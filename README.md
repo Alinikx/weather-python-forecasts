@@ -1,4 +1,4 @@
-# Meteo GUI
+# ADS Meteo GUI
 
 Piccola applicazione desktop in Python con interfaccia grafica (`tkinter`) per visualizzare il meteo di una città usando le API di **Open-Meteo**.
 
